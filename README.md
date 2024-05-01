@@ -1,6 +1,6 @@
 # <img src="/images/korea_flag.png" alt="[KR]" height="24" /> 고현수 | Hans Ko
 
-## World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
+## <img src="images/aws.svg" alt="[AWS]" height="24" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
 
 ### 2021
 | # | Mission | Services |
