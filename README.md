@@ -1,4 +1,4 @@
-# 고현수 [ Hyunsu Ko / Hans Ko ]
+# <img src="/images/korea_flag.png" alt="[KR]" height="32" /> 고현수 | Hans Ko
 
 ## World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
 
