@@ -52,7 +52,7 @@
 
 ### 🎖️ Certifications
 <a target="_blank" href="https://www.credly.com/users/hyunsu-ko/badges">
-  <img src="https://credly.scg.skku.ac.kr/?name=hyunsu-ko" />
+  <img src="https://credly.scg.skku.ac.kr?name=hyunsu-ko" />
 </a>
 
 ### <img src="images/aws.svg" alt="[AWS]" height="24" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
