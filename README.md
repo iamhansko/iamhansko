@@ -51,7 +51,9 @@
 - (2023.03-2024.03) 성균관대 정보통신대학 및 소프트웨어융합대학 쿠버네티스 클러스터 구축 및 운영
 
 ### 🎖️ Certifications
-<a target="_blank" href="https://www.credly.com/users/hyunsu-ko/badges">![credly](https://widget.scg.skku.ac.kr/?name=hyunsu-ko)</a>
+<a target="_blank" href="https://www.credly.com/users/hyunsu-ko/badges">
+  <img src="https://credly.scg.skku.ac.kr/?name=hyunsu-ko" />
+</a>
 
 ### <img src="images/aws.svg" alt="[AWS]" height="24" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
 
