@@ -50,6 +50,9 @@
 - (2021.01-2021.12) 일루와마켓 쇼핑몰 홈페이지 개발
 - (2023.03-2024.03) 성균관대 정보통신대학 및 소프트웨어융합대학 쿠버네티스 클러스터 구축 및 운영
 
+### Certifications
+<img src="https://widget.scg.skku.ac.kr/?name=hyunsu-ko"/>
+
 ### <img src="images/aws.svg" alt="[AWS]" height="24" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
 
 #### 2021
