@@ -45,12 +45,12 @@
 
 ### ⚡ Projects
 - (2018.06-2019.03) 성균관대 소프트웨어융합대학 학과 홈페이지 개발
-- (2019.04-2019.06) 성균관대 소프트웨어학과 생활지도교수 배정 시스템 개발 (https://cs.skku.edu/cssys)
-- (2019.06-2019.08) 한국컨텐츠진흥원 주관 제2회 우리동네캐릭터 투표 사이트 개발
+- (2019.04-2019.06) 성균관대 소프트웨어융합대학 졸업논문심사 / 생활지도교수배정 시스템 개발 (https://cs.skku.edu/cssys)
+- (2019.06-2019.08) 한국컨텐츠진흥원 제2회 우리동네캐릭터 투표 사이트 개발
 - (2021.01-2021.12) 일루와마켓 쇼핑몰 홈페이지 개발
 - (2023.03-2024.03) 성균관대 정보통신대학 및 소프트웨어융합대학 쿠버네티스 클러스터 구축 및 운영
 
-### 🎖️ Certifications
+### 🎖️ Certifications ([Credly](https://www.credly.com/users/hyunsu-ko/badges))
 <a target="_blank" href="https://www.credly.com/users/hyunsu-ko/badges">
   <img src="https://credly.scg.skku.ac.kr?name=hyunsu-ko" />
 </a>
