@@ -1,5 +1,5 @@
 # <img src="images/korea_flag.png" alt="[KR]" height="24" /> 고현수 | Hans Ko
-<a href="https://www.gobongbap.com/"> Tech Blog </a>
+<a href="https://gobongbap.com/"> Tech Blog </a>
 ·
 <a href="https://www.youtube.com/@udo_peanut_icecream/featured"> Youtube </a>
 
