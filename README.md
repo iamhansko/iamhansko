@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/@udo_peanut_icecream/featured"> Youtube </a>
 
 ### 🎓 Educations (Biography)
-- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 전자전기공학부(Electronic and Electrical Engineering) (2018 ~ )
+- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 전자전기공학부(Electronic and Electrical Engineering) (2018 ~ 2025)
 - [잠신고등학교(Jamsin High School)](https://jamsin.sen.hs.kr/) (2015 ~ 2017)
 
 ### 💖 Interests
